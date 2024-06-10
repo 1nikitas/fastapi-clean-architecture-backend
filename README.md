@@ -94,3 +94,6 @@
 ```sh
 docker-compose exec app pytest
 ```
+
+# TODO:
+1. Добавить комментарии
