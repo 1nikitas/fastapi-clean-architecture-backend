@@ -74,7 +74,7 @@
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/Flaiers/fastapi-clean-architecture.git
+    git clone https://github.com/1nikitas/fastapi-clean-architecture-backend-with-rbmq.git
     cd fastapi-clean-architecture
     ```
 
